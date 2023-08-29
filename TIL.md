@@ -5,4 +5,4 @@
 <br/> - 여간 불편한게 아니며 다른 쉬운 방법이 있는지 찾아봐야겠다.
 <br/> 위에 표시한 `#`이나 `<br/>`같이 박스안에 글을 넣는 것이 가능한 코드가, `` `코드 ``이다. 
 <br/> - 처음 볼때 Enter키 왼쪽에 있는 키와 헷갈릴 수 있으니 조심해야한다. 키는 윗쪽 숫자배열 1번왼쪽에 있다.
- ![예시](https://github.com/DaeHuKim/DaeHuKim/blob/main/4%20(1).jpg)
+ ![예시](https://github.com/DaeHuKim/DaeHuKim/blob/main/asdasd.jpg)
